@@ -10,7 +10,7 @@ Vecka 10: ingen lektion
 
 Vecka 11: vi har valt färg och typsnitt. vi har planerat hur vi ska ställa hemsidan i stort men inte i detalijer. vi har skapat en powerpoint som vi alla i gruppen har tillgång till och där har vi allt från vilka färger och typsnitt till andra saker vi kan använda. 
 
-vecka 12
+vecka 12: vi har gjort en sitemap, vi har valt bilder, skrivit lite principer och allmänt lite annat som vi behöver göra
 
 
 vecka 13
