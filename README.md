@@ -13,10 +13,10 @@ Vecka 11: vi har valt färg och typsnitt. vi har planerat hur vi ska ställa hem
 vecka 12: vi har gjort en sitemap, vi har valt bilder, skrivit lite principer och allmänt lite annat som vi behöver göra
 
 
-vecka 13
+vecka 13: 
 
 
-vecka 14
+vecka 14:
 
 
 vecka 15 påsk
