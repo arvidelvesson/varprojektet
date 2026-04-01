@@ -13,10 +13,10 @@ Vecka 11: vi har valt färg och typsnitt. vi har planerat hur vi ska ställa hem
 vecka 12: vi har gjort en sitemap, vi har valt bilder, skrivit lite principer och allmänt lite annat som vi behöver göra
 
 
-vecka 13: Vi har börjat skriva kod och har bestämmt layouten för hemsidan. 
+vecka 13: Vi har börjat skriva lite kod och har bestämmt layouten för hemsidan. 
 
 
-vecka 14:
+vecka 14: Vi har börjat koda på riktigt och gör olika delar av hemsidan
 
 
 vecka 15 påsk
