@@ -21,4 +21,6 @@ vecka 14: Vi har börjat koda på riktigt och gör olika delar av hemsidan
 
 vecka 15 påsk
 
-veacka 16; Vi fortsätter koda, snart klar med startsidan
+veacka 16: Vi fortsätter koda, snart klar med startsidan
+
+vecka 17: Vi fortsätter koda och vi är snart klara med all layout och det är inte jättemycket kvar.
