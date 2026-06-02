@@ -18,6 +18,34 @@ vecka 13: Vi har börjat skriva lite kod och har bestämmt layouten för hemsida
 
 vecka 14: Vi har börjat koda på riktigt och gör olika delar av hemsidan
 
+vecka 15 ingen lektion
+
+
+vecka 16 fortsätta koda
+
+
+vecka 17 snart klar med kodningen, håller på med kalendern 
+
+vecka 18 ingen lektion
+
+vecka 19 Kalendern är jobbig men snart är allt klart.
+
+vecka 20: Bas koden är klar och det är dags att modifiera lite 
+
+vecka 21: gjorde tester och ficksa så fel i koden
+
+vecka 22: gjorde tester gjorde de sista innan presentationen. Validerade all kod 
+
+vecka 23: redovinsings dagen
+
+
+
+
+
+
+
+
+
 
 vecka 15 påsk
 
